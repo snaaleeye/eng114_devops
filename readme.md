@@ -59,7 +59,7 @@ git push -u origin - send changes to specified branch of remote repository.
 
 git push --all origin - push all branches to your remote repository.
 
-git push origin : - delete a branch on your remote repository
+git push origin :<branchname> - delete a branch on your remote repository
 
 Update from the remote repository
 git pull - fetch and merge changes on the remote server to your working directory
