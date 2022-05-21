@@ -92,3 +92,6 @@ git config --global user.name - tell Git who you are
 git clone - create a copy of a local repository.
 
 git clone username@host:/path/to/repository - for remote repository
+
+git push -f origin main - overrides conflicts
+
