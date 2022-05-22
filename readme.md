@@ -95,3 +95,82 @@ git clone username@host:/path/to/repository - for remote repository
 
 git push -f origin main - overrides conflicts
 
+# Agile
+
+Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments.
+
+The four values of the Agile Manifesto
+* Individuals and interactions over processes and tools.
+* Working software over comprehensive documentation.
+* Customer collaboration over contract negotiation.
+* Responding to change over following a plan.
+
+Agile Methods, Practices, Frameworks and Techniques
+- Scrum
+- Kanban
+- Extreme Programming (XP)
+- Lean Development
+- Crystal
+- Feature-Driven Development FDD
+- Dynamic Systems Development Method (DSDM)
+- Scaled Agile Framework (SAFe)
+- Scrum@Scale
+- Scrum of Scrums (SoS)
+- Large Scale Scrum (LeSS)
+- Nexus
+- Disciplined Agile (DA)
+
+Agile Manifesto
+
+Individuals & Interactions over process and tools
+
+Working software over comprehensive documentation
+
+Customer collaboration over contract negotiation
+
+Responding to change over following plan
+
+Information radiator
+Three pillars of Scrum
+1. Transparency
+2. Inspection
+3. Adaptation
+
+Scrum Roles
+- Product Owner
+- Scrum Master
+- Development Team
+
+How can we effectively gather requirements?
+1. Establish Wants vs needs - Qualifying requirements
+
+User Stories 
+As a… I want… So that…
+
+Independent 
+Negotiable 
+Valuable
+Estimable
+Small
+Testable
+
+The Three C’s
+Card
+Conversation
+Confirmation
+
+Gherkin Scenario
+Given 
+         AND
+When 
+         AND
+Then 
+        AND
+
+
+Retrospective
+- Make sure you have 3 points for next time
+- What went well
+- What could be improved
+- Actions
+
